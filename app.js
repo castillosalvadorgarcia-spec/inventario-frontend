@@ -1,6 +1,6 @@
 // ⚠️ IMPORTANTE: Reemplaza esta URL por la URL pública que te otorgue Render en el Paso 3, 
 // asegurándote de conservar el "/productos" al final.
-const API_URL = "https://inventario-backend-xyz.onrender.com/productos";
+const API_URL = "https://inventario-backend-y16k.onrender.com/productos";
 
 // Función para consultar los datos guardados en MongoDB Atlas
 async function obtenerProductos() {
